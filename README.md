@@ -1,5 +1,4 @@
-# Location Inference of Tweets:
-# A Performance Comparison of Name-Entity Recognizer and Probabilistic Models
+# Location Inference of Tweets: A Performance Comparison of Name-Entity Recognizer and Probabilistic Models
 
 ## Abstract
 
