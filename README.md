@@ -17,3 +17,6 @@ Ryoo & Moon (2014) described a probabilistic generative model to evaluate locati
 Out of the 9475 Twitter users in GeoText, we were able to retrieve at least one pair of coordinates for 7042 of them. We examined the distance error between the predicted and actual coordinates. If we only consider the top ranked coordinates, our results are similar to those of Brunsting et al. (2016) who had 2.2% for the 10km range and 5.4% for the 100km range. If we consider the top two or three choices, our results are better than Brunsting et al. (2016).
 
 ![Results based on the Weighted Distance Scores](Screenshot_table1.jpg)
+
+### Probabilistic Generative Model
+Unfortunately, we later found out about an error in our implementation of this method which could have given us inaccurate results.
